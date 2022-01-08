@@ -24,3 +24,6 @@ rm -rf package-temp
 # mv -f package-temp/lua-maxminddb package/lean/
 # mv -f package-temp/luci-app-vssr package/lean/
 # rm -rf package-temp
+
+git clone https://github.com/kenzok8/openwrt-packages.git
+git clone https://github.com/kenzok8/small-package.git
